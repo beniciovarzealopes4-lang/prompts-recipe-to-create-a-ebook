@@ -29,7 +29,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Freepik](https://https://www.freepik.com)
+- [Freepik](https://www.freepik.com/pikaso/ai-image-generator)
 - [Corel Draw](https://https://www.coreldraw.com/br)
 
 ## 🧠 Prompts
