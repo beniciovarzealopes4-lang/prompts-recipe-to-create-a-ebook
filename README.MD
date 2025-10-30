@@ -87,4 +87,4 @@ benicio-varzea-lopes/">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 🤗 por [Benício Várzea Lopes](https://github.com/beniciovarzealopes4-lang)
