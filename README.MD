@@ -17,7 +17,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s - E-book Redator Full_Text
+# Projeto E-BOOK Gerado por I.A.s - E-book Redator Full_Text
 
 
 
