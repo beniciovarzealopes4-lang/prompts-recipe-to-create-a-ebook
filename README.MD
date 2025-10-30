@@ -87,4 +87,4 @@ benicio-varzea-lopes/">LinkedIn</a>
 
 ---
 
-⌨️ com 🤗 por [Benício Várzea Lopes](https://github.com/beniciovarzealopes4-lang)
+Feito com 🤗 por [Benício Várzea Lopes](https://github.com/beniciovarzealopes4-lang)
