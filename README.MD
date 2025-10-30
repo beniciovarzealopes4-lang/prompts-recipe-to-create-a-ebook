@@ -13,7 +13,7 @@
 <p align="center">
 <img 
     src="assets/montagem_capa_ebook_redator full_ok.png"
-    width="700"  
+    width="800"  
 />
 </p>
 
