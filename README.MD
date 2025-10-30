@@ -30,7 +30,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Freepik](https://www.freepik.com/pikaso/ai-image-generator)
-- [Corel Draw](ttps://www.coreldraw.com/en/product/coreldraw/?x-vehicle=ppc_brkws&utm_medium=cpc&utm_source=google&utm_term=coreldraw%20trial&utm_content=&utm_id=13192338709&extensionid=&matchtype=e&device=c&devicemodel=&creative=780623435498&network=g&placement=&campaignid=13192338709&x-source=ppc&x-target=ppc&promo=ppc&campaign_name=CDGS-Search-Brand-Evergreen-Tier1-EN&gad_source=1&gad_campaignid=13192338709&gbraid=0AAAAADew63RiqKJQHzUgr7nEWdyniTH-V&gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkS9aNb7fNeEPlKWsOP4WrBwLR9L0sMPN9KED5fXYfi7XqJNaoXodFsaAsbGEALw_wcB)
+- [Corel Draw](https://web.coreldraw.com/)
 
 ## 🧠 Prompts
 
